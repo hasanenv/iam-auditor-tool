@@ -1,5 +1,12 @@
 # IAM Permissions Auditor 🛡️
 
+[![AWS](https://img.shields.io/badge/Platform-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)
+[![IAM](https://img.shields.io/badge/Service-IAM-blue?logo=amazonaws)](https://aws.amazon.com/iam/)
+[![S3](https://img.shields.io/badge/Service-S3-569A31?logo=amazons3)](https://aws.amazon.com/s3/)
+[![SNS](https://img.shields.io/badge/Service-SNS-FF9900?logo=amazonaws)](https://aws.amazon.com/sns/)
+[![EC2](https://img.shields.io/badge/Service-EC2-FF9900?logo=amazonec2)](https://aws.amazon.com/ec2/)
+
+## Demo GIF:
 ![Demo GIF](assets/iam-audit.gif)
 
 A Bash-based auditing tool that scans an AWS account for **users, roles, and groups** with `AdministratorAccess`.  
